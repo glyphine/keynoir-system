@@ -1,4 +1,3 @@
-// src/services/auth.service.ts
 import jwt from 'jsonwebtoken';
 import fs from 'fs/promises';
 import path from 'path';
